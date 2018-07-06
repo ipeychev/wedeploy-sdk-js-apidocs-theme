@@ -1,0 +1,12 @@
+{
+  "name": "wedeploy-sdk-js-apidocs-theme",
+  "version": "1.0.0",
+  "private": true,
+  "description": "WeDeploy SDK JS APIDocs custom theme",
+  "main": "index.js",
+  "license": "ISC",
+  "dependencies": {
+    "vinyl": "^2.2.0",
+    "vinyl-fs": "^3.0.3"
+  }
+}
